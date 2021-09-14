@@ -1,2 +1,2 @@
-# SEAPI-001
-StorEDGE API -001
+# SEAPI-CORE
+StorEDGE API - core

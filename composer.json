@@ -17,7 +17,7 @@
     },
 	"require": {
 		"guzzlehttp/guzzle": "^7.0",
-		"guzzlehttp/oauth-subscriber": "^0.5",
+		"guzzlehttp/oauth-subscriber": "^0.6",
 		"phpmailer/phpmailer": "~6.5"
 	},
     "minimum-stability": "stable"
