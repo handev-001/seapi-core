@@ -1,5 +1,5 @@
 {
-	"name": "hlstorage/seapi",
+	"name": "hlstorage/seapi-core",
 	"description": "StorEDGE API for Heartland Storage",
 	"license": "MIT",
 	"authors": [
