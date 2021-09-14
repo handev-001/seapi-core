@@ -1,5 +1,5 @@
 {
-	"name": "hlstorage/seapi-core",
+	"name": "handev-001/seapi-core",
 	"description": "StorEDGE API for Heartland Storage",
 	"license": "MIT",
 	"authors": [
@@ -16,8 +16,8 @@
       }
     },
 	"require": {
-		"guzzlehttp/guzzle": "~6.2.1",
-		"guzzlehttp/oauth-subscriber": "0.3.*",
+		"guzzlehttp/guzzle": "^7.0",
+		"guzzlehttp/oauth-subscriber": "^0.5",
 		"phpmailer/phpmailer": "~6.5"
 	},
     "minimum-stability": "stable"
